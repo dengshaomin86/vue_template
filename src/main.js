@@ -5,9 +5,6 @@ import store from './store';
 
 Vue.config.productionTip = false;
 
-const a = '{{appName}}';
-const c = '{{appNameaa}}';
-
 new Vue({
   router,
   store,
