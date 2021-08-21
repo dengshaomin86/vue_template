@@ -1,5 +1,5 @@
 {
-  "name": "vue_template",
+  "name": "{{appName}}",
   "version": "0.1.0",
   "private": true,
   "scripts": {
